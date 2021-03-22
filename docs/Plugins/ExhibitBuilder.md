@@ -98,6 +98,7 @@ Some plugins, such as [Geolocation](Geolocation.md) and [Exhibit Image Annotatio
    - You can browse using the back and forth arrow buttons in the upper right corner of the dialog box. 
 
 ![Attach an Item window with browse options](../doc_files/plugin_images/eb_additem2a.png)
+
   
 - Clicking *Show Search Form* will take you to an advanced item search. 
 
